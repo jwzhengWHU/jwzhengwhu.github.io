@@ -1,3 +1,5 @@
+
+
 #### First-/Corresponding-Authored Papers
 
 - <strong>Zheng J</strong>, Fang R*, Li M, Zhao Q, Shi C, Liu J (2024) Capture of coseismic velocity waveform using GNSS raw Doppler and carrier phase data for enhancing shaking intensity estimation. <strong>Journal of Geodesy</strong>. [[Paper]](https://link.springer.com/article/10.1007/s00190-024-01916-4)
@@ -7,6 +9,7 @@
 - <strong>Zheng J</strong>, Fang R*, Li M, Lv H, Liu J (2022) Line-Source Model Based Rapid Inversion for Deriving Large Earthquake Rupture Characteristics Using High-Rate GNSS Observations. <strong>Geophysical Research Letters</strong>. [[Paper]](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL097460)
 
 - <strong>Zheng J</strong> (2022) Rapid determination of rupture characteristic of large earthquakes based on high-rate GNSS and accelerometer (in Chinese) [master thesis]. Wuhan: Wuhan University.
+
 
 #### Other Co-Authored Papers
 
