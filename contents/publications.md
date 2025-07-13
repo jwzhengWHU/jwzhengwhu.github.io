@@ -1,8 +1,10 @@
-#### Submitted
+#### First-/Corresponding-Authored Papers
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q. Niu. LaNCoR: Label Noise-Contrastive Robust Learning for Seismic Signal Processing with Application to Microseismic Arrival Time Picking. <strong>Rej :)</strong> [[Code]](https://github.com/senli1073/LaNCor)
+- <strong>Zheng J</strong>, Fang R*, Li M, Zhao Q, Shi C, Liu J (2024) Capture of coseismic velocity waveform using GNSS raw Doppler and carrier phase data for enhancing shaking intensity estimation. <strong>Journal of Geodesy</strong>. [[Paper]](https://link.springer.com/article/10.1007/s00190-024-01916-4)
 
-#### Published
+-   
+
+#### Other Co-Authored Papers
 
 - X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
 
