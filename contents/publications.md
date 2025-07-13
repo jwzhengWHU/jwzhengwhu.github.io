@@ -1,5 +1,6 @@
 #### First-/Corresponding-Authored Papers
 
+
 - <strong>Zheng J</strong>, Fang R*, Li M, Zhao Q, Shi C, Liu J (2024) Capture of coseismic velocity waveform using GNSS raw Doppler and carrier phase data for enhancing shaking intensity estimation. <strong>Journal of Geodesy</strong>. [[Paper]](https://link.springer.com/article/10.1007/s00190-024-01916-4)
 
 -   
