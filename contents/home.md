@@ -12,7 +12,7 @@ Email: jwzheng[at]whu.edu.cn
 
 #### Education
 D.E., Geodesy and Survey Engineering, GNSS Research Center, Wuhan University, 2022-Present.\
-M.E., Geodesy and Survey Engineering, GNSS Research Center, Wuhan University, 2019—2022.\
+M.E., Geodesy and Survey Engineering, GNSS Research Center, Wuhan University, 2019-2022.\
 B.E., Geodesy and Geomatics Engineering, College of Geology Engineering and Geomatics, Chang’an University, 2015-2019.
 
 #### Research Interests
