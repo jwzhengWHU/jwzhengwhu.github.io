@@ -1,16 +1,9 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- Young Talent Support Program Doctoral Student Special Plan, China Association for Science and Technology (CAST), 2025.
 
-- National Scholarship for Graduate Student, 2024.
+- National Scholarship for Graduate Student, 2022.
 
-- First-Prize Scholarship (CUMT), 2024.
+- Graduate Academic Innovation Award, Wuhan University, 2021.
 
-- First-Prize Scholarship (CUMT), 2023.
+- Wang Zhizhuo Innovation Talent Award, Wuhan University, 2021.
 
-- Freshman Scholarship (CUMT), 2022.
-
-- Outstanding Graduation Project Award (Jiangsu Province), 2022.
-
-- First-Prize Enterprise Scholarship (CUMT), 2020.
-
-- First-Prize Scholarship (CUMT), 2019.
