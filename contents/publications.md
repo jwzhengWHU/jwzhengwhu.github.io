@@ -6,15 +6,19 @@
 
 - <strong>Zheng J</strong>, Fang R*, Li M, Lv H, Liu J (2022) Line-Source Model Based Rapid Inversion for Deriving Large Earthquake Rupture Characteristics Using High-Rate GNSS Observations. <strong>Geophysical Research Letters</strong>. [[Paper]](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL097460)
 
+- <strong>Zheng J</strong> (2022) Rapid determination of rupture characteristic of large earthquakes based on high-rate GNSS and accelerometer (in Chinese) [master thesis]. Wuhan: Wuhan University.
+
 #### Other Co-Authored Papers
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- Li Y, Zhao Q, Guo J, Fang R, <strong>Zheng J</strong> (2023) Multi-Sensor Fusion for Railway Irregularity Inspection System: Integration of RTK GNSS, MEMS IMU, Odometer, and Laser. <strong>IEEE Transactions on Instrumentation and Measurement</strong>. [[Paper]](https://ieeexplore.ieee.org/document/10299559)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- Fang R, Lv H, Hu Z, Wang G, <strong>Zheng J</strong>, Zhou R, et al. (2022) GPS/BDS precise point positioning with B2b products for high-rate seismogeodesy: application to the 2021 Mw 7.4 Maduo earthquake. <strong>Geophysical Journal International</strong>. [[Paper]](https://academic.oup.com/gji/article/231/3/2079/6665929)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- Fang R, <strong>Zheng J</strong>, Geng J, Shu Y, Shi C, Liu J (2021) Earthquake magnitude scaling using peak ground velocity derived from high-rate GNSS observations. <strong>Seismological Research Letters</strong>. [[Paper]](https://doi.org/10.1785/0220190347)
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+- Fang R, <strong>Zheng J</strong>, Shu Y, Lv H, Shi C, Liu J (2021) A new tightly coupled method for high-rate seismogeodesy: a shake table experiment and application to the 2016 Mw 6.6 central Italy earthquake. <strong>Geophysical Journal International</strong>. [[Paper]](https://ieeexplore.ieee.org/document/9623815)
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- Fang R, Lv H, Shu Y, <strong>Zheng J</strong>, Zhang K, Liu J (2021) Improved performance of GNSS precise point positioning for high-rate seismogeodesy with recent BDS-3 and Galileo. <strong>Advances in space research</strong>. [[Paper]](https://doi.org/10.1016/j.asr.2021.06.012)
+
+- Li M, Lei Z, Li W, Jiang K, Huang T, <strong>Zheng J</strong>, Zhao Q (2021) Performance evaluation of single-frequency precise point positioning and its use in the Android smartphone. <strong>Remote Sensing</strong>. [[Paper]](https://doi.org/10.3390/rs13234894)
 
