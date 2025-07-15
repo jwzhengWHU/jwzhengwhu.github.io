@@ -7,7 +7,7 @@
 
 - [02] <strong>Zheng J</strong>, Fang R*, Li M, Lv H, Liu J (2022) Line-Source Model Based Rapid Inversion for Deriving Large Earthquake Rupture Characteristics Using High-Rate GNSS Observations. <strong>Geophysical Research Letters</strong>. [[Paper]](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL097460)
 
-- [01] <strong>Zheng J</strong> (2022) Rapid determination of rupture characteristic of large earthquakes based on high-rate GNSS and accelerometer (in Chinese) [master thesis]. Wuhan: Wuhan University.
+- [01] <strong>Zheng J</strong> (2022) Rapid determination of rupture characteristic of large earthquakes based on high-rate GNSS and accelerometer. <strong>Wuhan: Wuhan University [master thesis]</strong>. [[Paper]] (https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202301&filename=1022553198.nh&uniplatform=OVERSEA&v=ogUzeMnPVdxg2cqngB0apaHUUaFeABqUKhvkAQgxEZX5G6TLvNsHU0cEi5LAlkmY)
 
 #### Other Co-Authored Papers
 
