@@ -1,7 +1,6 @@
 
 [![jwzhengWHU](https://img.shields.io/badge/jwzhengWHU-github-blue?logo=github)](https://github.com/jwzhengWHU)
 
-\
 He is currently a Ph.D. student at the GNSS Research Center of Wuhan University and a visiting researcher at the Disaster Prevention Research Institute, Kyoto University.\
 Profile(In Chinese): http://panda.whu.edu.cn/info/1329/1401.htm \
 Github: https://github.com/jwzhengWHU \
