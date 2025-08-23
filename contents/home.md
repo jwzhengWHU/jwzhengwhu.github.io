@@ -19,3 +19,5 @@ B.E., Geodesy and Geomatics Engineering, College of Geology Engineering and Geom
 #### Research Interests
 BDS/GNSS positioning, High-rate GNSS seismology, Artificial intelligence seismology, BDS/GNSS-IR.
 
+#### Forward modeling results of coseismic deformation for significant earthquakes
+1) 
