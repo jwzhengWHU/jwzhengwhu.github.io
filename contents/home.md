@@ -19,5 +19,5 @@ B.E., Geodesy and Geomatics Engineering, College of Geology Engineering and Geom
 #### Research Interests
 BDS/GNSS positioning, High-rate GNSS seismology, Artificial intelligence seismology, BDS/GNSS-IR.
 
-#### Forward modeling results of coseismic deformation for significant earthquakes
+#### Forward modeling results of coseismic deformation for significant earthquakes (Continuously updated)
 - [01] [M8.8 2025 Kamchatka Peninsula, Russia Earthquake](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL097460)
