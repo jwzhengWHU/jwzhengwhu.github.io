@@ -20,4 +20,4 @@ B.E., Geodesy and Geomatics Engineering, College of Geology Engineering and Geom
 BDS/GNSS positioning, High-rate GNSS seismology, Artificial intelligence seismology, BDS/GNSS-IR.
 
 #### Forward modeling results of coseismic deformation for significant earthquakes
-1) 
+- [04] [M8.8 2025 Kamchatka Peninsula, Russia Earthquake] https://github.com/jwzhengWHU/Forward-modeling-results-of-coseismic-deformation-for-significant-earthquakes/tree/main/M8.8%202025%20Kamchatka%20Peninsula%2C%20Russia%20Earthquake
