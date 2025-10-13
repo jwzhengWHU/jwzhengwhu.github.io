@@ -1,6 +1,8 @@
 
 #### First-/Corresponding-Authored Papers
 
+- [05] <strong>Zheng J</strong>, Fang R, Li M*, Luo X, Zhao Q, Li Z, et al. (2025) Improved capture of ultra-high-rate GNSS co-seismic displacement waveforms with dynamic stress error correction for general geodetic GNSS receivers. <strong>Journal of Geodesy</strong>. [[Paper]](https://link.springer.com/article/10.1007/s00190-025-02011-y)
+
 - [04] <strong>Zheng J</strong>, Fang R*, Li M, Zhao Q, Shi C, Liu J (2024) Capture of coseismic velocity waveform using GNSS raw Doppler and carrier phase data for enhancing shaking intensity estimation. <strong>Journal of Geodesy</strong>. [[Paper]](https://link.springer.com/article/10.1007/s00190-024-01916-4)
 
 - [03] <strong>Zheng J</strong>, Li M, Fang R*, Lv H, Liu J (2023) Rapid inversion of fault rupture characteristics for the Luding M6.8 earthquake in Sichuan with high-rate GNSS and strong-motion data. <strong>Chinese Journal of Geophysics</strong>. [[Paper]](http://www.geophy.cn//article/doi/10.6038/cjg2022Q0786)
