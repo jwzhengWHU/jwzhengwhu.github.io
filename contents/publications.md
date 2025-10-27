@@ -1,7 +1,7 @@
 
 #### First-/Corresponding-Authored Papers
 
-- [06] <strong>Zheng J</strong>, Li W*, Yang L, Zhao Q, Yang Q, Du X, et al. (2025) Low earth orbit interferometric reflectometry (LEO-IR): results and implications from real CENTISPACE™ observations and a simulated LEO constellation. <strong>GPS solutions</strong>. [[Paper]](https://link.springer.com/article/10.1007/s10291-025-01980-z)
+- [06] <strong>Zheng J</strong>, Li W*, Yang L, Zhao Q, Yang Q, Du X, et al. (2026) Low earth orbit interferometric reflectometry (LEO-IR): results and implications from real CENTISPACE™ observations and a simulated LEO constellation. <strong>GPS solutions</strong>. [[Paper]](https://link.springer.com/article/10.1007/s10291-025-01980-z)
 
 - [05] <strong>Zheng J</strong>, Fang R, Li M*, Luo X, Zhao Q, Li Z, et al. (2025) Improved capture of ultra-high-rate GNSS co-seismic displacement waveforms with dynamic stress error correction for general geodetic GNSS receivers. <strong>Journal of Geodesy</strong>. [[Paper]](https://link.springer.com/article/10.1007/s00190-025-02011-y)
 
