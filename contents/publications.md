@@ -3,7 +3,7 @@
 
 - [06] <strong>Zheng J</strong>, Li W*, Yang L, Zhao Q, Yang Q, Du X, et al. (2026) Low earth orbit interferometric reflectometry (LEO-IR): results and implications from real CENTISPACE™ observations and a simulated LEO constellation. <strong>GPS solutions</strong>. [[Paper]](https://link.springer.com/article/10.1007/s10291-025-01980-z)
 
-- [05] <strong>Zheng J</strong>, Fang R, Li M*, Luo X, Zhao Q, Li Z, et al. (2025) Improved capture of ultra-high-rate GNSS co-seismic displacement waveforms with dynamic stress error correction for general geodetic GNSS receivers. <strong>Journal of Geodesy</strong>. [[Paper]](https://link.springer.com/article/10.1007/s00190-025-02011-y)
+- [05] <strong>Zheng J</strong>, Fang R, Li M*, Luo X, Zhao Q, Li Z, et al. (2025) Improved capture of ultra-high-rate GNSS co-seismic displacement waveforms with dynamic stress error correction for general geodetic GNSS receivers. <strong>Journal of Geodesy</strong>. [[Paper]](https://link.springer.com/article/10.1007/s00190-025-02011-y) [[中文解读]](https://mp.weixin.qq.com/s/WrCFZaYlNH1AptcCOd0jEw)
 
 - [04] <strong>Zheng J</strong>, Fang R*, Li M, Zhao Q, Shi C, Liu J (2024) Capture of coseismic velocity waveform using GNSS raw Doppler and carrier phase data for enhancing shaking intensity estimation. <strong>Journal of Geodesy</strong>. [[Paper]](https://link.springer.com/article/10.1007/s00190-024-01916-4)
 
