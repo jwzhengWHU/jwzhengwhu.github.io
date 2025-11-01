@@ -24,7 +24,7 @@ B.E., Geodesy and Geomatics Engineering, College of Geology Engineering and Geom
 - [05] 深度学习地震学（Artificial intelligence seismology）
 
 #### Open-source code
-- [01] [CYGNSS Data Processing](https://github.com/jwzhengWHU/cygnss_code_python) python
+- [01] [CYGNSS Data Processing](https://github.com/jwzhengWHU/cygnss_code_python) [中文说明](https://mp.weixin.qq.com/s/ZxPBEnpxQ8hrK9pZ-xhkpQ)
 
 #### Forward modeling results of coseismic deformation for significant earthquakes (Continuously updated)
 - [01] [M8.8 2025 Kamchatka Peninsula, Russia Earthquake](https://github.com/jwzhengWHU/Forward-modeling-results-of-coseismic-deformation-for-significant-earthquakes/tree/main/M8.8%202025%20Kamchatka%20Peninsula%2C%20Russia%20Earthquake)
