@@ -17,7 +17,14 @@ M.E., Geodesy and Survey Engineering, GNSS Research Center, Wuhan University, 20
 B.E., Geodesy and Geomatics Engineering, College of Geology Engineering and Geomatics, Chang’an University, 2015-2019.
 
 #### Research Interests
-BDS/GNSS positioning, High-rate GNSS seismology, Artificial intelligence seismology, BDS/GNSS-IR.
+- [01] 北斗/GNSS/LEO精密定位测速（BDS/GNSS/LEO-PV）
+- [02] 北斗/GNSS/INS融合定位测速（BDS/GNSS/INS-PV）
+- [03] 北斗/GNSS/LEO干涉反射遥感（BDS/GNSS/LEO-IR）
+- [04] 高频GNSS地震学（High-rate GNSS seismology）
+- [05] 深度学习地震学（Artificial intelligence seismology）
+
+#### Open-source code
+- [01] [CYGNSS Data Processing](https://github.com/jwzhengWHU/cygnss_code_python) python
 
 #### Forward modeling results of coseismic deformation for significant earthquakes (Continuously updated)
 - [01] [M8.8 2025 Kamchatka Peninsula, Russia Earthquake](https://github.com/jwzhengWHU/Forward-modeling-results-of-coseismic-deformation-for-significant-earthquakes/tree/main/M8.8%202025%20Kamchatka%20Peninsula%2C%20Russia%20Earthquake)
