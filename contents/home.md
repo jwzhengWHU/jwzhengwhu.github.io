@@ -5,7 +5,8 @@ He is currently a Ph.D. student at the GNSS Research Center of Wuhan University 
 Profile(In Chinese): http://panda.whu.edu.cn/info/1329/1401.htm \
 Github: https://github.com/jwzhengWHU \
 ResearchGate: https://www.researchgate.net/profile/Jiawei-Zheng-4 \
-GoogleScholar: https://scholar.google.com.hk/citations?user=0Te3Ps0AAAAJ&hl=zh-CN 
+GoogleScholar: https://scholar.google.com.hk/citations?user=0Te3Ps0AAAAJ&hl=zh-CN \
+GNSS-IR Community: https://gnss-reflections.org/community
 
 #### Contact
 
