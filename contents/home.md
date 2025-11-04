@@ -24,6 +24,9 @@ B.E., Geodesy and Geomatics Engineering, College of Geology Engineering and Geom
 - [04] 高频GNSS地震学（High-rate GNSS seismology）
 - [05] 深度学习地震学（Artificial intelligence seismology）
 
+#### Some Useful Websites
+- [01] [Free Icons](https://uxwing.com/)
+
 #### Open-source code
 - [01] [CYGNSS Data Processing](https://github.com/jwzhengWHU/cygnss_code_python) [中文说明](https://mp.weixin.qq.com/s/ZxPBEnpxQ8hrK9pZ-xhkpQ)
   
