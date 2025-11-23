@@ -26,6 +26,7 @@ B.E., Geodesy and Geomatics Engineering, College of Geology Engineering and Geom
 
 #### Some Useful Websites
 - [01] [Free Icons](https://uxwing.com/)
+- [02] [Video-cutter](https://online-video-cutter.com/)
 
 #### Open-source code
 - [01] [CYGNSS Data Processing](https://github.com/jwzhengWHU/cygnss_code_python) [中文说明](https://mp.weixin.qq.com/s/ZxPBEnpxQ8hrK9pZ-xhkpQ)
