@@ -15,6 +15,8 @@
 
 #### Other Co-Authored Papers
 
+- [07] Zhong B, Hu X, Fang R*, <strong>Zheng J</strong>, et al. (2026) Magnitude Estimation of Large Earthquakes Based on High-Rate GNSS and End-to-End Deep Learning. <strong>Chinese Journal of Geophysics</strong>. [[Paper]](http://www.geophy.cn/article/doi/10.6038/cjg2025S0655)
+
 - [06] Li Y, Zhao Q*, Guo J, Fang R, <strong>Zheng J</strong> (2023) Multi-Sensor Fusion for Railway Irregularity Inspection System: Integration of RTK GNSS, MEMS IMU, Odometer, and Laser. <strong>IEEE Transactions on Instrumentation and Measurement</strong>. [[Paper]](https://ieeexplore.ieee.org/document/10299559)
 
 - [05] Fang R, Lv H, Hu Z*, Wang G, <strong>Zheng J</strong>, Zhou R, et al. (2022) GPS/BDS precise point positioning with B2b products for high-rate seismogeodesy: application to the 2021 Mw 7.4 Maduo earthquake. <strong>Geophysical Journal International</strong>. [[Paper]](https://academic.oup.com/gji/article/231/3/2079/6665929)
