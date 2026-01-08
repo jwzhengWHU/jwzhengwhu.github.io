@@ -1,4 +1,6 @@
 
+- [09] Wang Zhizhuo Innovation Talent Award (Doctoral Level), Wuhan University, 2026.
+
 - [08] Extended Scholarship for Excellent PhD Candidates, Wuhan University, 2025.
 
 - [07] Young Talent Support Program Doctoral Student Special Plan, China Association for Science and Technology (CAST), 2025.
@@ -13,5 +15,5 @@
 
 - [02] Graduate Academic Innovation Award, Wuhan University, 2021.
 
-- [01] Wang Zhizhuo Innovation Talent Award, Wuhan University, 2021.
+- [01] Wang Zhizhuo Innovation Talent Award (Master’s Level), Wuhan University, 2021.
 
