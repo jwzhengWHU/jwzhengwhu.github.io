@@ -1,3 +1,4 @@
+- [04] <strong>Zheng J</strong>, Fang R, Li M, Li W, Jiang K and Zhao Q 2025. Water Level Measurement Method and Apparatus Based on LEO-IR. CN. Patent Number ZL202411872972.X. Patent Authorized.
 
 - [03] <strong>Zheng J</strong>, Li M, Fang R and Zhao Q 2025. Method, Device, Medium, Computer Program Product, and Application for Coseismic Static Tilt Measurement Based on a Triaxial Accelerometer. CN. Patent Number ZL202411848854.5. Patent Authorized.
 
