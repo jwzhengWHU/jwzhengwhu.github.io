@@ -14,7 +14,7 @@ Email: jwzheng[at]whu.edu.cn
 
 #### Education
 D.E., Geodesy and Survey Engineering, GNSS Research Center, Wuhan University, 2022-Present.\
-Visiting Ph.D. Student (Joint Training Program), Geodesy and Survey Engineering, Disaster Prevention Research Institute, Kyoto University, 2025-2026.\
+Visiting Ph.D. Student, Geodesy and Survey Engineering, Disaster Prevention Research Institute, Kyoto University, 2025-2026.\
 M.E., Geodesy and Survey Engineering, GNSS Research Center, Wuhan University, 2019-2022.\
 B.E., Geodesy and Geomatics Engineering, College of Geology Engineering and Geomatics, Chang’an University, 2015-2019.
 
