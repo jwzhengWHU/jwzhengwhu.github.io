@@ -1,4 +1,4 @@
-- [05] <strong>Fang R</strong>, Zheng J, Li M 2026. A Cascaded Filtering-Based Method for Real-Time Reconstruction of Broadband Coseismic Velocity Waveforms Using Multi-Source Fused Data. CN. Patent Number ZL202310269275.4. Patent Authorized.
+- [05] Fang R, <strong>Zheng J</strong> and Li M 2026. A Cascaded Filtering-Based Method for Real-Time Reconstruction of Broadband Coseismic Velocity Waveforms Using Multi-Source Fused Data. CN. Patent Number ZL202310269275.4. Patent Authorized.
 
 - [04] <strong>Zheng J</strong>, Fang R, Li M, Li W, Jiang K and Zhao Q 2025. Water Level Measurement Method and Apparatus Based on LEO-IR. CN. Patent Number ZL202411872972.X. Patent Authorized.
 
