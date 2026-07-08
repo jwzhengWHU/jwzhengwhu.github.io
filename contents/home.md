@@ -1,7 +1,7 @@
 
 [![jwzhengWHU](https://img.shields.io/badge/jwzhengWHU-github-blue?logo=github)](https://github.com/jwzhengWHU)
 
-He is currently a Ph.D. student at the GNSS Research Center of Wuhan University.\
+He is currently a Specially Appointed Researcher (Postdoctoral Fellow) at the Beidou Research Institute, South China Normal University.\
 Profile(In Chinese): http://panda.whu.edu.cn/info/1329/1401.htm \
 Github: https://github.com/jwzhengWHU \
 ResearchGate: https://www.researchgate.net/profile/Jiawei-Zheng-4 \
@@ -12,8 +12,11 @@ GNSS-IR Community: https://gnss-reflections.org/community
 
 Email: jwzheng[at]whu.edu.cn
 
+#### Work Experience
+Specially Appointed Researcher (Postdoctoral Fellow), Beidou Research Institute, South China Normal University, 2026-Present.
+
 #### Education
-D.E., Geodesy and Survey Engineering, GNSS Research Center, Wuhan University, 2022-Present.\
+D.E., Geodesy and Survey Engineering, GNSS Research Center, Wuhan University, 2022-2026.\
 Visiting Ph.D. Student, Geodesy and Survey Engineering, Disaster Prevention Research Institute, Kyoto University, 2025-2026.\
 M.E., Geodesy and Survey Engineering, GNSS Research Center, Wuhan University, 2019-2022.\
 B.E., Geodesy and Geomatics Engineering, College of Geology Engineering and Geomatics, Chang’an University, 2015-2019.
