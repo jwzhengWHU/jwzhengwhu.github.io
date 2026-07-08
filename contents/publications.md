@@ -1,6 +1,8 @@
 
 #### First-/Corresponding-Authored Papers
 
+- [07] <strong>Zheng J</strong> (2026) Enhancement Methods for High-rate GNSS Strong-motion Signals and Rapid Inversion of Earthquake Early Warning Parameters. <strong>Doctoral Dissertation, Wuhan University</strong>.
+
 - [06] <strong>Zheng J</strong>, Li W*, Yang L, Zhao Q, Yang Q, Du X, et al. (2026) Low earth orbit interferometric reflectometry (LEO-IR): results and implications from real CENTISPACE™ observations and a simulated LEO constellation. <strong>GPS solutions</strong>. [[Paper]](https://link.springer.com/article/10.1007/s10291-025-01980-z) [[中文解读]](https://mp.weixin.qq.com/s/aLBGPbJnnTpyoYJx3XwqSw)
 
 - [05] <strong>Zheng J</strong>, Fang R, Li M*, Luo X, Zhao Q, Li Z, et al. (2025) Improved capture of ultra-high-rate GNSS co-seismic displacement waveforms with dynamic stress error correction for general geodetic GNSS receivers. <strong>Journal of Geodesy</strong>. [[Paper]](https://link.springer.com/article/10.1007/s00190-025-02011-y) [[中文解读]](https://mp.weixin.qq.com/s/WrCFZaYlNH1AptcCOd0jEw)
@@ -11,7 +13,7 @@
 
 - [02] <strong>Zheng J</strong>, Fang R*, Li M, Lv H, Liu J (2022) Line-Source Model Based Rapid Inversion for Deriving Large Earthquake Rupture Characteristics Using High-Rate GNSS Observations. <strong>Geophysical Research Letters</strong>. [[Paper]](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL097460)
 
-- [01] <strong>Zheng J</strong> (2022) Rapid determination of rupture characteristic of large earthquakes based on high-rate GNSS and accelerometer. <strong>Wuhan University master thesis</strong>. [[Paper]](https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202301&filename=1022553198.nh&uniplatform=OVERSEA&v=ogUzeMnPVdxg2cqngB0apaHUUaFeABqUKhvkAQgxEZX5G6TLvNsHU0cEi5LAlkmY)
+- [01] <strong>Zheng J</strong> (2022) Rapid determination of rupture characteristic of large earthquakes based on high-rate GNSS and accelerometer. <strong>Master's Dissertation, Wuhan University</strong>.
 
 #### Other Co-Authored Papers
 
